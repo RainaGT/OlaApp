@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394193436035",
+    "project_id": "olaapp-5441a",
+    "storage_bucket": "olaapp-5441a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394193436035:android:5613288a54aa45a69b0ab6",
+        "android_client_info": {
+          "package_name": "com.example.ola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuhvmWfNMF3anmXAXkPTandcO5W-RqHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
